@@ -5,3 +5,11 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mysql
 redis
+portainer/portainer-ce
+rabbitmq:management
+mongo
+nacos/nacos-server
+elasticsearch
+kibana
+logstash
+bitnami/minio
