@@ -9,7 +9,7 @@ portainer/portainer-ce
 rabbitmq:management
 mongo
 nacos/nacos-server
-elasticsearch
-kibana
-logstash
+elasticsearch:8.14.1
+kibana:8.14.1
+logstash:8.14.1
 bitnami/minio
