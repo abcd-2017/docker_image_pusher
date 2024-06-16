@@ -13,3 +13,5 @@ elasticsearch:8.14.1
 kibana:8.14.1
 logstash:8.14.1
 bitnami/minio
+snowdreamtech/frpc
+snowdreamtech/frps
