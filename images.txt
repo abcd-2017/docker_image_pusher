@@ -15,4 +15,4 @@ logstash:8.14.1
 bitnami/minio
 snowdreamtech/frpc
 snowdreamtech/frps
-xiaoyaliu/alist
+xhofe/alist
