@@ -16,3 +16,9 @@ bitnami/minio
 snowdreamtech/frpc
 snowdreamtech/frps
 xhofe/alist
+
+bitnami/kafka
+bitnami/zookeeper
+provectuslabs/kafka-ui
+prom/prometheus
+grafana/grafana
