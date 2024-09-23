@@ -22,3 +22,4 @@ bitnami/zookeeper
 provectuslabs/kafka-ui
 prom/prometheus
 grafana/grafana
+consul
