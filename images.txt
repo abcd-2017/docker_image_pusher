@@ -23,3 +23,4 @@ provectuslabs/kafka-ui
 prom/prometheus
 grafana/grafana
 consul
+seataio/seata-server
