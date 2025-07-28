@@ -24,3 +24,4 @@ prom/prometheus
 grafana/grafana
 consul
 seataio/seata-server
+binaryify/netease_cloud_music_api
